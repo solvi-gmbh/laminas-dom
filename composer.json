@@ -21,6 +21,7 @@
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
+    "abandoned": "symfony/dom-crawler",
     "extra": {
         "branch-alias": {
             "dev-master": "2.7.x-dev",
