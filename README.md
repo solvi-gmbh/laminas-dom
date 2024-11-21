@@ -3,7 +3,7 @@
 > [!CAUTION]
 > This package is **abandoned** and will receive no further development.
 >
-> See the Technical Steering Committee [meeting minutes](url to the minutes).
+> See the Technical Steering Committee [meeting minutes](https://github.com/laminas/technical-steering-committee/blob/main/meetings/minutes/2024-11-04-TSC-Minutes.md#archive--abandon-various-legacy-libraries).
 >
 > If you are looking for an actively maintained package alternative, we recommend:
 >
