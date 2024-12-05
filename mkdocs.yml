@@ -5,7 +5,7 @@ nav:
     - Intro: intro.md
     - "Querying HTML and XML": query.md
 site_name: laminas-dom (Abandoned)
-site_description: laminas-dom (Abandoned)
+site_description: Provides tools for working with DOM documents and structures
 repo_url: 'https://github.com/laminas/laminas-dom'
 extra:
     project: Components
